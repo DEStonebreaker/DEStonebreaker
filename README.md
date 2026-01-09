@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Donovan and I am a Computer Science and Applied Math student.  
-My favorite topics to work with are Graph theory, network programming, and memory management.  
+Hi, my name is Donovan and I am a undergrad Computer Science and Applied Math student.  
+My favorite topics to work with are graph theory, network programming, memory management, and parallel computing.  
 
 A lot of my repos, if public, are more likely than not some random junk drawers that I use to sync files between my laptop and desktop.
 
+-----
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,go,git,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,go,python,linux" />
   </a>
 </p>
