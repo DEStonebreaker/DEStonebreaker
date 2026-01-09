@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **DEStonebreaker/DEStonebreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, my name is Donovan and I am a Computer Science and Applied Math student.  
+My favorite topics to work with are Graph theory, network programming, and memory management.  
+
+A lot of my repos, if public, are more likely than not some random junk drawers that I use to sync files between my laptop and desktop.
